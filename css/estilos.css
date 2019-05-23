@@ -1,0 +1,26 @@
+header {
+  padding: 1em;
+  margin-bottom: 2em;
+  background: #99ddff; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+section {
+  margin: 2em; }
+
+h1 {
+  color: #990000; }
+
+footer {
+  background-color: #990000;
+  color: #99ddff;
+  margin-top: 3em;
+  padding: 2.5em; }
+  footer h4 {
+    color: #ffe6e6; }
+    footer h4 a {
+      color: #cceeff; }
+
+/*# sourceMappingURL=estilos.css.map */

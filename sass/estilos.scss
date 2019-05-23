@@ -1,0 +1,24 @@
+@import "variables";
+@import "header";
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    margin: 2em;
+}
+h1{
+    color: $colorH1;
+}
+footer{
+    background-color: $colorH1;
+    color:$azulClaro;
+    margin-top: 3em;
+    padding: 2.5em;
+    h4{
+        color: #ffe6e6;
+        a{
+            color: $azulMuyClaro;
+        }
+    }
+}
